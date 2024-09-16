@@ -39,7 +39,7 @@ Special thanks to **Ayushi Jain** from WsCube Tech, who guided me throughout thi
 This project provided valuable insights into pizza sales and customer behaviors, helping businesses make data-driven decisions to improve sales and operational efficiency.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](link_to_your_license_file) file for more details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For any inquiries, feel free to reach out:
